@@ -17,7 +17,7 @@ Contributions, issues, and feature requests are welcome! Feel free to explore th
 
 ## Contact
 
-For consulting inquiries or collaborations, reach out via [your email or website].
+For consulting inquiries or collaborations, reach out via our website at https://www.hbnet.tech/.
 
 ---
 
