@@ -1,4 +1,4 @@
-# HNBet Networks
+# HBNet Networks
 
 Welcome to **HNBet Networks**, the official GitHub organization for a consulting business focused on network engineering, automation, and NetBox and Fortinet tooling.
 
